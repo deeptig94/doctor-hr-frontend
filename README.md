@@ -7,4 +7,4 @@ This will launch the frontend web service where you can enter your email and vie
 
 Before running, ensure that npm and node are installed.
 
-![Alt text](https://github.com/deeptig94/doctor-hr-frontend/blob/master/Screen%20Shot%202018-04-10%20at%206.18.12%20PM.png)
+![Alt text](https://github.com/deeptig94/doctor-hr-frontend/blob/master/Screen%20Shot%202018-04-12%20at%2011.11.28%20PM.png)
